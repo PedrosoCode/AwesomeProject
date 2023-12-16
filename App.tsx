@@ -78,15 +78,7 @@ function App(): React.JSX.Element {
           }}>
           <Section title="Step One">
             Edit <Text style={styles.highlight}>Eu venci a instalação do react</Text> to change this
-            screen and then come back to see your edits.
-          </Section>
-          <Section title="See Your Changes">
-            <ReloadInstructions />
-          </Section>
-          <Section title="Debug">
-          </Section>
-          <Section title="Learn More">
-            Read the docs to discover what to do next:
+            screen and then come back to see your edit
           </Section>
         </View>
       </ScrollView>
